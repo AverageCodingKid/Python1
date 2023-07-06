@@ -6,7 +6,7 @@ def password():
 
     if user_attempt.lower() == "shea" and password_attempt == "pixel0101":
         print("Login successful.")
-        file_path = "file:///C:/Users/sheab/OneDrive/Documents/Python1/sheaC.html"
+        file_path = "WebBuild.html"
         webbrowser.open(file_path)
     else:
         print("Incorrect password or username. Please try again later.")
