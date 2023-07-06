@@ -1,0 +1,10 @@
+player = 
+human_1 =
+human_2 =
+human_3 =
+ox = 
+ox = 
+wagon = 
+ammo =
+food = 
+difficulty =
